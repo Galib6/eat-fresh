@@ -85,3 +85,19 @@ h2 {
     text-align: center;
     padding: 0% 30%;
 }
+
+.third11 {
+    width: 90%;
+}
+
+.third11 img {
+    width: 100%;
+}
+
+.third1 {
+    display: inline-block;
+}
+
+.third {
+    display: flex;
+}
