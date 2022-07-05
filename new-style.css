@@ -11,6 +11,10 @@ h2 {
     font-weight: 700;
 }
 
+h3 {
+    font-size: 20px;
+}
+
 .orange {
     color: orangered;
 }
@@ -87,17 +91,30 @@ h2 {
 }
 
 .third11 {
-    width: 90%;
+    width: 100%;
+
+
 }
 
 .third11 img {
     width: 100%;
+    align-self: center;
+
 }
 
 .third1 {
     display: inline-block;
+    margin: 2%;
+    box-shadow: 10px 10px 30px gray;
+    padding: 3%;
+    border-radius: 40px;
+
+
 }
 
 .third {
     display: flex;
+    padding: 5%;
+    justify-content: center;
+
 }
