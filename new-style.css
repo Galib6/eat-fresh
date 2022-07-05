@@ -4,6 +4,7 @@ body {
 
 h1 {
     font-size: 50px;
+
 }
 
 h2 {
@@ -15,8 +16,19 @@ h3 {
     font-size: 20px;
 }
 
+h5 {
+    font-size: 50px;
+    margin-bottom: -20px;
+
+}
+
 .orange {
     color: orangered;
+
+}
+
+h4 {
+    font-size: 30px
 }
 
 #half1 {
@@ -108,13 +120,38 @@ h3 {
     box-shadow: 10px 10px 30px gray;
     padding: 3%;
     border-radius: 40px;
-
-
 }
+
 
 .third {
     display: flex;
     padding: 5%;
     justify-content: center;
 
+}
+
+.four {
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+    box-shadow: 10px 10px 30px gray;
+    padding-bottom: 4%;
+
+}
+
+.four1 {
+
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.last {
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    background-color: #0c0c14;
+    color: white;
 }
